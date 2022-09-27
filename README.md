@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Austin</h1>
-<h3 align="center">A passionate Frontend Developer and UX Designer from Los Angeles</h3>
+<h3 align="center">A passionate Frontend Developer from Los Angeles</h3>
 
-- 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/)
+- 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/) and [100Devs](https://leonnoel.com/100devs/)
 
 - 🌱 I’m currently learning **HTML, CSS, SCSS, Tailwind CSS, JavaScript, React, TypeScript, Node.js**
 
