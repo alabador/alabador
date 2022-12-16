@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Austin</h1>
-<h3 align="center">A passionate Software Engineer from Los Angeles</h3>
+<h3 align="center">Software Engineer from Los Angeles</h3>
 
 - 🔭 I’m currently working with [100Devs](https://leonnoel.com/100devs/)
 
