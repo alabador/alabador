@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Austin</h1>
 <h3 align="center">Software Engineer from Los Angeles</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, SCSS, Tailwind CSS, JavaScript, React, TypeScript, Node.js, and Python**
+🌱 I’m currently learning **HTML, CSS, SCSS, Tailwind CSS, JavaScript, React, TypeScript, Node.js, and Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
