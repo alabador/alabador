@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Austin</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
 
-- 🔭 I’m currently working on **Wisht - A shared wishlist app!**
-
-- 🌱 I’m currently learning **React, MongoDB, Express, Authentication (Focused on learning backend currently)**
+- 🌱 I’m currently learning **MVC Patterns, React, and backend technologies (Focused on learning backend currently)**
 
 - 👨‍💻 All of my projects are available at [https://austinlabador.netlify.app/](https://austinlabador.netlify.app/)
 
