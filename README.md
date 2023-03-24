@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://austinlabador.netlify.app/](https://austinlabador.netlify.app/)
 
-- 💬 Ask me about **JavaScript, React, CSS**
-
 - 📫 How to reach me **austinlabador@gmail.com**
 
 - ⚡ Fun fact **I've played piano since I was 3! 🎹**
