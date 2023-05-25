@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Austin</h1>
-<h3 align="center">Full-Stack Web Developer</h3>
+<h3>Full-Stack Web Developer</h3>
 
-- 🌱 I’m currently learning **MVC Patterns, React, and backend technologies (Focused on learning backend currently)**
+![](https://komarev.com/ghpvc/?username=alabador&color=orange)
 
-- 👨‍💻 All of my projects are available at [https://austinlabador.netlify.app/](https://austinlabador.netlify.app/)
+👨‍💻 All of my projects are available at [https://austinlabador.netlify.app/](https://austinlabador.netlify.app/)
 
-- 📫 How to reach me **austinlabador@gmail.com**
+📫 How to reach me **austinlabador@gmail.com**
 
-- ⚡ Fun fact **I've played piano since I was 3! 🎹**
+⚡ Fun fact **I've played piano since I was 3! 🎹**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
